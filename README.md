@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Thien Huong Le
+👋 Hi, I’m Thien Huong Le
